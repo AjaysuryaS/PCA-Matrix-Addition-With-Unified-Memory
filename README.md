@@ -28,6 +28,7 @@ Execute the program and run the terminal . Check the performance using nvprof.
 Developed By: AJAYSURIYA.S
 REG NO:212221040009
 ```
+```
 #include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
